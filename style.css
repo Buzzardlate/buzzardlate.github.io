@@ -4,3 +4,13 @@ p {
   font-size:16px;
   text-align: center;
 }
+
+<style>
+  div {
+    text-align: center;
+  }
+</style>
+
+<div>
+  <img src="atomo.jpg">
+</div>
